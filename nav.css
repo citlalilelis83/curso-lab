@@ -17,7 +17,7 @@ html,body{margin:0;padding:0;text-align:center;background:#FFF}
     #packageLicense{position:fixed;bottom:50px;right:0;width:100%;padding:0;text-indent:20px}
     #packageLicense.cc{width:80px;height:15px;padding:0;right:10px;bottom:60px}
     #packageLicense.cc p{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0}
-    #packageLicense.cc{background-image:url(_simplepoint_licenses.gif);background-repeat:no-repeat;background-position:0 0}
+    #packageLicense.cc{background-image:url(simplepoint_licenses.gif);background-repeat:no-repeat;background-position:0 0}
     #packageLicense.cc-by-sa{background-position:0 -100px}
     #packageLicense.cc-by-nd{background-position:0 -200px}
 	#packageLicense.cc-by-nc{background-position:0 -300px}
@@ -44,7 +44,7 @@ html,body{margin:0;padding:0;text-align:center;background:#FFF}
 #siteNav .other-section{display:none}
 #siteNav ul ul ul a{padding-left:60px}
 /* Pagination */
-.pagination a{display:block;width:16px;height:16px;background:url(_simplepoint_navigation.png) no-repeat -50px -50px;position:fixed;z-index:999}
+.pagination a{display:block;width:16px;height:16px;background:url(simplepoint_navigation.png) no-repeat -50px -50px;position:fixed;z-index:999}
 .pagination .sep{display:none}
 #topPagination{position:absolute;top:0}
 #topPagination a{top:17px;right:17px}
@@ -66,7 +66,7 @@ html[xmlns] #content{display:block}
 
 #nav-toggler{margin:0;position:absolute;top:17px;right:95px}
 #info-toggler{margin:0;position:absolute;top:17px;right:69px}
-#nav-toggler a,#info-toggler a{display:block;width:16px;height:16px;background:url(_simplepoint_navigation.png) no-repeat 0 0;outline:none}
+#nav-toggler a,#info-toggler a{display:block;width:16px;height:16px;background:url(simplepoint_navigation.png) no-repeat 0 0;outline:none}
 #info-toggler a{background-position:-50px 0}
 #nav-toggler span,.pagination a span,#nodeDecoration,#info-toggler span{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0}
 
